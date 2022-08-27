@@ -1,0 +1,38 @@
+.ml-auto{
+    margin-left:auto;
+    padding-top: 20px;
+}
+.nav_opt{
+    margin-left: 20px;
+    color: black;
+    text-decoration:none;
+    font-family: 'Poppins';
+}
+nav.navbar >ul>li{
+    list-style: none;
+}
+.ctnr{
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+.hd1{
+    margin-left: 35%;
+    font-size: 50px;
+    font-family: Helvetica;
+}
+.hd1-a{
+    margin-left: 26%;
+    font-size: 50px;
+    font-family: Helvetica;
+}
+.p1-a{
+    font-family:'Poppins' ;
+    font-size: 15px;
+    padding-left: 18%;
+    padding-top: 10px;
+}
+.p1-b{
+    font-family:'Poppins' ;
+    font-size: 15px;
+    padding-left: 20%;
+}
