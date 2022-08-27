@@ -16,23 +16,57 @@ nav.navbar >ul>li{
     border-radius: 20px;
 }
 .hd1{
-    margin-left: 35%;
     font-size: 50px;
     font-family: Helvetica;
 }
 .hd1-a{
-    margin-left: 26%;
     font-size: 50px;
     font-family: Helvetica;
+    color: #91d760;
 }
 .p1-a{
     font-family:'Poppins' ;
     font-size: 15px;
-    padding-left: 18%;
     padding-top: 10px;
 }
 .p1-b{
     font-family:'Poppins' ;
     font-size: 15px;
-    padding-left: 20%;
+}
+.button{
+    background-color:#fff;
+    border-radius: 5px;
+    padding: 15px;
+    width: 15%;
+}
+.lm_b{
+    text-decoration:none;
+}
+.lm{
+    color:#1a3562;
+}
+.add{
+    padding-top: 4px;
+    padding-left: 10px;
+    color:#1a3562
+}
+.middle{
+    background-color: #91d760;
+}
+.rd_btn{
+    background-color: black;
+    width: 30%;
+    margin-left: 0px;
+    padding: 15px;
+    border-radius: 5px;
+
+}
+.rd{
+    padding-left: 10px;
+    text-decoration:none;
+    color: #fff;
+}
+.product_name{
+    font-weight: bolder;
+    font-size: 20px;
 }
