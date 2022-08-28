@@ -70,3 +70,43 @@ nav.navbar >ul>li{
     font-weight: bolder;
     font-size: 20px;
 }
+.divi_a{
+    text-decoration:none;
+    color: black;
+    font-weight: bolder;
+}
+.row_clr{
+    background-color: black;
+}
+.divi{
+    color: #fff;
+}
+.img.px-5 {
+    padding-left: 4rem!important;
+}
+.csr_ctnr{
+    border-color: #91d760;
+    border-style: solid;
+    height: 50px;
+}
+.csr{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.csr_ctnr_a{
+    background-color:#91d760;
+    height: 50px;
+}
+.tshc{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+.cf{
+    background-color:#91d760 ;
+    margin-top: 40px;
+}
+.ot{
+    color:#fff;
+}
