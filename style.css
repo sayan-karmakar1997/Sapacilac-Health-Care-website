@@ -25,6 +25,7 @@ nav.navbar >ul>li{
 .hd1{
     font-size: 50px;
     font-family: Helvetica;
+    color: #444141;
 }
 .hd1-a{
     font-size: 50px;
@@ -105,6 +106,7 @@ nav.navbar >ul>li{
     background-color:#91d760;
     height: 50px;
 }
+.ot{color: #fff;}
 .tshc{
     color: #fff;
     text-decoration: none;
@@ -117,19 +119,14 @@ nav.navbar >ul>li{
 .footer{
     background-color: #252525;
     color:#fff;
-    width: 1349px;
-    margin-left: -129px!important;
     font-size: 15px;
-    margin-top: 10px;
-    padding-left: 50px;
+    padding-left: 45px;
 }
 .lst{
     background-color: #100b0b;
     color: #fff;
     height: 55px;
-    width: 124%;
     padding-top: 15px;
-    margin-left: -129px;
 }
 .lhd1{
     font-size: 25px;
@@ -295,6 +292,16 @@ nav.navbar >ul>li{
 }
 .ot{
     font-weight: bolder;
+}
+.cf-ot{
+    background-color:#acda91;
+}
+.ctnr-box{
+    padding-bottom: 70px;
+}
+.cf-blackbox{
+    background-color: #100b0b;
+    height: 500px;
 }
 
 /* a{
